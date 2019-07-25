@@ -1,0 +1,3 @@
+[submodule "SpecFlow"]
+	path = SpecFlow
+	url = https://github.com/techtalk/SpecFlow.git
